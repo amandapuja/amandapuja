@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amanda Puja</h1>
-<h3 align="center">- I’m interested in cyber security, system administrator, IoT, and sustainable technology. - 🌱 I’m currently learning more about Linux, Nginx, Flask, Python, Web Server, API development, and I’m also a CTF player specializing in cybersecurity</h3>
+<h3 align="center">- I’m interested in cyber security, system administrator, IoT, and sustainable technology.</h3>
+<h3 align="center">- I’m currently learning more about Linux, Nginx, Flask, Python, Web Server, API development, and I’m also a CTF player specializing in cybersecurity</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandapuja" alt="amandapuja" /></a> </p>
 
