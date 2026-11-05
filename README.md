@@ -19,40 +19,7 @@
 ## 🖥️ Profile Card
 
 <div align="center">
-<table>
-<tr>
-<td align="center" valign="middle" width="320">
-<img src="./assets/portrait.svg" alt="Amanda Puja" width="300"/>
-</td>
-<td valign="top">
-
-```text
-amanda@portfolio ~ $ ./profile
-------------------------------------------
-. Name: .......... Amanda Puja
-. Role: .......... Cybersecurity Enthusiast
-                   & System Administrator
-. Based: ......... Indonesia
-. Mode: .......... Learning / Hacking / Building
-
-- FOCUS ----------------------------------
-. Security: ...... CTF & web security
-. SysAdmin: ...... Linux, Nginx, web servers
-. IoT: ........... Arduino & sustainable tech
-. Backend: ....... Python, Flask, REST API
-
-- SELECTED.WORK --------------------------
-. CTF: ........... Challenge write-ups
-. Linux: ......... Server setup & hardening
-. Flask: ......... API & web app projects
-. IoT: ........... Arduino-based prototypes
-
-SOMEONE WHO LIKES TO EXPLORE AND LEARN
-```
-
-</td>
-</tr>
-</table>
+  <img src="./assets/profile_card.svg" alt="Amanda Puja - Profile Card" width="100%"/>
 </div>
 
 ---
