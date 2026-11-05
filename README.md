@@ -21,10 +21,8 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="middle" width="300">
-<img src="./assets/foto_amanda.jpeg" alt="Amanda Puja" width="260"/>
-<br/>
-<sub><b>PORTRAIT / AMANDA</b></sub>
+<td align="center" valign="middle" width="320">
+<img src="./assets/portrait.svg" alt="Amanda Puja" width="300"/>
 </td>
 <td valign="top">
 
@@ -103,18 +101,6 @@ me.say_hi()
 | 🐍 **Backend Development** | Python & Flask projects, API development | [GitLab](https://gitlab.com/azxmand1506/) |
 | 🪐 **IoT** | Arduino-based sustainable tech experiments | [GitLab](https://gitlab.com/azxmand1506/) |
 
-> 💡 Ganti nama proyek & link di tabel ini dengan proyek aslimu supaya portofolionya makin kuat.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amandapuja&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🛠️ Languages & Tools
@@ -140,18 +126,13 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amandapuja&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="Amanda's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandapuja&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amandapuja&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Followers](https://img.shields.io/github/followers/amandapuja?style=for-the-badge&logo=github&color=7C3AED&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Learning_%26_Building-5cc8ff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -189,8 +170,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amandapuja.amandapuja)
 
 *"Someone who likes to explore and learn 🌱"*
 
