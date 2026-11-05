@@ -24,28 +24,6 @@
 
 ---
 
-## 🚀 About Me
-
-```python
-class AmandaPuja:
-    def __init__(self):
-        self.name        = "Amanda Puja"
-        self.role        = "Cybersecurity Enthusiast & System Administrator"
-        self.location    = "Indonesia 🇮🇩"
-        self.interests   = ["Cyber Security", "IoT", "Sustainable Tech", "CTF"]
-        self.currently   = "Building my portfolio & sharpening CTF skills 🚩"
-        self.learning    = ["Linux", "Nginx", "Flask", "Python", "API Development"]
-        self.fun_fact    = "Someone who likes to explore and learn 🌍"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = AmandaPuja()
-me.say_hi()
-```
-
----
-
 ## 🔥 What I'm Up To
 
 | | |
