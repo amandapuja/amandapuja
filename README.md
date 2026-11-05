@@ -16,6 +16,49 @@
 
 ---
 
+## 🖥️ Profile Card
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="middle" width="300">
+<img src="./assets/foto_amanda.jpeg" alt="Amanda Puja" width="260"/>
+<br/>
+<sub><b>PORTRAIT / AMANDA</b></sub>
+</td>
+<td valign="top">
+
+```text
+amanda@portfolio ~ $ ./profile
+------------------------------------------
+. Name: .......... Amanda Puja
+. Role: .......... Cybersecurity Enthusiast
+                   & System Administrator
+. Based: ......... Indonesia
+. Mode: .......... Learning / Hacking / Building
+
+- FOCUS ----------------------------------
+. Security: ...... CTF & web security
+. SysAdmin: ...... Linux, Nginx, web servers
+. IoT: ........... Arduino & sustainable tech
+. Backend: ....... Python, Flask, REST API
+
+- SELECTED.WORK --------------------------
+. CTF: ........... Challenge write-ups
+. Linux: ......... Server setup & hardening
+. Flask: ......... API & web app projects
+. IoT: ........... Arduino-based prototypes
+
+SOMEONE WHO LIKES TO EXPLORE AND LEARN
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🚀 About Me
 
 ```python
@@ -25,7 +68,7 @@ class AmandaPuja:
         self.role        = "Cybersecurity Enthusiast & System Administrator"
         self.location    = "Indonesia 🇮🇩"
         self.interests   = ["Cyber Security", "IoT", "Sustainable Tech", "CTF"]
-        self.currently   = "Building AgriConnect 🌾"
+        self.currently   = "Building my portfolio & sharpening CTF skills 🚩"
         self.learning    = ["Linux", "Nginx", "Flask", "Python", "API Development"]
         self.fun_fact    = "Someone who likes to explore and learn 🌍"
 
@@ -42,13 +85,25 @@ me.say_hi()
 
 | | |
 |---|---|
-| 🔭 **Working on** | [AgriConnect](https://agriconnect.my.id/) — a sustainable agri-tech platform |
+| 💼 **Portfolio** | Projects on [GitLab](https://gitlab.com/azxmand1506/) |
 | 🌱 **Learning** | Linux · Nginx · Flask · Python · Web Servers · API Development |
 | 🏴 **CTF** | Active CTF player specializing in cybersecurity challenges |
 | 📝 **Writing** | Tech articles on [Medium](https://medium.com/@azxmand1506) |
-| 💼 **Portfolio** | Projects on [GitLab](https://gitlab.com/azxmand1506/) |
 | 📄 **Experience** | [LinkedIn Profile](https://www.linkedin.com/in/amanda-puja-2366082b5/) |
 | ⚡ **Fun fact** | Someone who loves to explore and learn new things! |
+
+---
+
+## 🗂️ Selected Work
+
+| Area | What I do | Link |
+|---|---|---|
+| 🏴 **Cybersecurity / CTF** | Solving challenges and writing up the process | [Medium](https://medium.com/@azxmand1506) |
+| 🖥️ **System Administration** | Linux server setup, Nginx configuration, hardening | [GitLab](https://gitlab.com/azxmand1506/) |
+| 🐍 **Backend Development** | Python & Flask projects, API development | [GitLab](https://gitlab.com/azxmand1506/) |
+| 🪐 **IoT** | Arduino-based sustainable tech experiments | [GitLab](https://gitlab.com/azxmand1506/) |
+
+> 💡 Ganti nama proyek & link di tabel ini dengan proyek aslimu supaya portofolionya makin kuat.
 
 ---
 
